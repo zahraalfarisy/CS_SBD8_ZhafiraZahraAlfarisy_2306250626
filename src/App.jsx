@@ -318,7 +318,7 @@ export default function App() {
     </div>
   </div>
   <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
-    {/* Updated Image container for Reddit communities with additional size constraints */}
+    {/* Image container*/}
     <div className={`h-96 sm:h-112 md:h-128 lg:w-full lg:h-full bg-[#FF4500] flex items-center justify-center`}>
       <div className="max-w-md max-h-full p-4 overflow-hidden"> {/* Added container with max-width and padding */}
         <img 
